@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508473916 source:f:\code blocks\practicas\juego_de_craps\craps\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
+1508615682 source:g:\code blocks\practicas\juego_de_craps\craps\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+

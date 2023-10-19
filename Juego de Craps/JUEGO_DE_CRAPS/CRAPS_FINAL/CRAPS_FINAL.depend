@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1508640370 source:g:\code blocks\practicas\juego_de_craps\craps_final\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1509320934 source:g:\code_blocks\practicas\juego_de_craps\craps_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"G:\CODE_BLOCKS\PRACTICAS\JUEGO_DE_CRAPS\CRAPS_FINAL\milibreria.h"
+
+1508976878 source:e:\code_blocks\practicas\juego_de_craps\craps_final\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1509122388 g:\code_blocks\practicas\juego_de_craps\craps_final\milibreria.h
+
+1509420552 source:e:\c\juego de craps\juego_de_craps\craps_final\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+

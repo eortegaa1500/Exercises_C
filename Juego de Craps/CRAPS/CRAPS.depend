@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509440629 source:c:\users\lalo\documents\escuela\5to semestre\programacion\c\craps\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
