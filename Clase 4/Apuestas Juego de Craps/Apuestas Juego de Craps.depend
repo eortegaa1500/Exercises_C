@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508455818 source:c:\users\lalo\documents\escuela\5to semestre\programacion\c\clase 4\apuestas juego de craps\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+

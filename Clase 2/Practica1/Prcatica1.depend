@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503685624 source:c:\prcatica1\main.c
+	<stdio.h>
+	<stdlib.h>
+

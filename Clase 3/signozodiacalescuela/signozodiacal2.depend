@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504326288 source:c:\users\lalo\documents\escuela\5to semestre\programacion\c\signozodiacal2\main.c
+	<stdio.h>
+	<stdlib.h>
+

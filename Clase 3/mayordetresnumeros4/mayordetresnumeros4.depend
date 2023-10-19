@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505453111 source:c:\users\lalo\documents\escuela\5to semestre\programacion\c\mayordetresnumeros4\main.c
+	<stdio.h>
+	<stdlib.h>
+
