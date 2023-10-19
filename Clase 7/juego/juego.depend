@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507918700 source:g:\c\clase 7\juego\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
